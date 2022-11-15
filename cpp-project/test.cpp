@@ -3,7 +3,7 @@
 
 int main() {
     std::cout << "Hello World!";
-    int x = 5, y = y;
+    int x = 5, y = 30;
     std::cout << "The product is " << multiplyTwoNumbers(x, y);
     return 0;
 }

@@ -1,4 +1,6 @@
-// Function that returns the product of two integers.
-int multiplyTwoNumbers(int x, int y) {
+/**
+ * This is the multiply function.
+*/
+int multiplyTwoNumbers(int x, int y){
   return x * y;
 }
