@@ -1,0 +1,14 @@
+{
+	// C++ code comment snippet
+
+	"Add a documentation comment": {
+		"prefix": "doc",
+		"body": [
+			"/**",
+			" * $1Describe this function in detail.",
+			"*/",
+			"$2"
+		],
+		"description": "Add documentation comments to code."
+	},
+}
